@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm k praveen kumar</h1>
 <h3 align="center">A passionate devops and AWS cloud developer from India</h3>
 
